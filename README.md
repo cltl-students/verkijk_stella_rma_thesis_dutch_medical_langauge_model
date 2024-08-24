@@ -17,5 +17,4 @@ The subfolders it contains are the following:
 
 
 ## Thesis report
-The thesis report can be accessed here:
-
+For more information or access to a copy of the full thesis you can contact me at s.verkijk@vu.nl
